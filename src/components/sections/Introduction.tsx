@@ -12,7 +12,7 @@ export const Introduction = () => {
 								<h1 className="title">
 									Hello, I'm <span className="blue-text">Jan Leigh</span>.
 								</h1>
-								<p className="description">A Filipino full-stack web developer.</p>
+								<p className="description">A developer.</p>
 								<Link to="about" smooth={true} className="button floating">
 									View More
 									<span>→</span>
