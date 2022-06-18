@@ -5,31 +5,31 @@ export const AboutMe = () => {
 				<h1 className="title">About</h1>
 				<div className="columns">
 					<div className="column is-2">
-						<a href="https://github.com/janleigh" target="_blank" className="button btn-alt">
+						<a href="https://github.com/bzigus" target="_blank" className="button btn-alt">
 							GitHub
 						</a>
-						<a href="https://twitter.com/jlmunoz08" target="_blank" className="button btn-alt">
+						<a href="https://twitter.com/bugzigusistaken" target="_blank" className="button btn-alt">
 							Twitter
 						</a>
 						<a
-							href="https://discord.com/users/380307921952833537"
+							href="https://discord.com/users/158023941569380352"
 							target="_blank"
 							className="button btn-alt"
 						>
 							Discord
 						</a>
-						<a href="mailto:janleigh@pm.me" className="button btn-alt">
+						<a href="mailto:zig@bugzig.us className="button btn-alt">
 							Email Me
 						</a>
 					</div>
 					<div className="column is-8">
 						<div className="content">
 							<p>
-								Hello! I am a Filipino senior high school student and a self-taught full-stack
+								Hello! I am a College student and a self-taught
 								developer.
 								<br />
-								My real name is <span className="blue-text">Jan Leigh</span> but I prefer the name{" "}
-								<span className="blue-text">Kizu</span> on the internet.
+								My real name is <span className="blue-text">Ben Ziegler</span> but I prefer the name{" "}
+								<span className="blue-text">bugzigus</span> on the internet.
 								<br />
 								<br />I have been programming for about <span className="blue-text">4 years</span> now.
 								<br />
