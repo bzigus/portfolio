@@ -25,8 +25,6 @@ export const Projects = () => {
 						>
 							Hm. Well, this is awkward. There seems nothing in here.
 							<br />
-							You can always commission me by clicking{" "}
-							<a href="http://ko-fi.com/janleigh/commissions">here</a>.
 						</p>
 					</div>
 				</div>
